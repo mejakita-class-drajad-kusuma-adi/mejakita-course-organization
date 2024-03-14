@@ -1,0 +1,1 @@
+Init project in organization repository. Demo for MejaKita industry class assignment.
